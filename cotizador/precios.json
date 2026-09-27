@@ -1,0 +1,48 @@
+{
+  "batiente": {
+    "rangos_puerta": [
+      {"min": 0.500, "max": 0.599, "precio": 80.00},
+      {"min": 0.600, "max": 0.650, "precio": 90.00},
+      {"min": 0.651, "max": 0.700, "precio": 95.00}
+    ],
+    "rangos_fijo": [
+      {"min": 0.000, "max": 0.100, "precio": 0.00},
+      {"min": 0.101, "max": 0.239, "precio": 35.00},
+      {"min": 0.240, "max": 0.300, "precio": 44.00},
+      {"min": 0.301, "max": 0.500, "precio": 62.00},
+      {"min": 0.501, "max": 0.700, "precio": 81.00},
+      {"min": 0.701, "max": 0.900, "precio": 99.00}
+    ],
+    "recargo_puerta_sin_fijo": 100.00,
+    "recargo_puerta_con_fijo": 50.00,
+    "recargo_fijo": 50.00,
+    "esmerilado": {"No": 0.00, "Si": 30.00},
+    "accesorios": {
+      "Tirador Tipo O": 17.00,
+      "Tirador Tipo Negro": 20.00,
+      "Tirador Pomo Doble": 8.00,
+      "Tirador Pomo Negro": 10.00,
+      "Barra Tensora": 20.00,
+      "Tirador Toallero": 25.00
+    }
+  },
+  "corrediza": {
+    "rangos_ancho": [
+      {"min": 0.750, "max": 0.950, "precio": 110.00},
+      {"min": 0.951, "max": 1.150, "precio": 124.00},
+      {"min": 1.151, "max": 1.350, "precio": 138.00},
+      {"min": 1.351, "max": 1.550, "precio": 152.00},
+      {"min": 1.551, "max": 1.800, "precio": 185.00},
+      {"min": 1.801, "max": 2.100, "precio": 215.00}
+    ],
+    "recargo": 100.00,
+    "esmerilado": {"No": 0.00, "Si": 25.00},
+    "accesorios": {
+      "Tirador Toallero Brillante": 20.00,
+      "Tirador Pomo y Toallero Brillante": 24.00,
+      "Tirador Pomo Brillante": 8.00,
+      "Perfiles en Color Negro Mate / Dorado": 15.00,
+      "Tirador Pomo Negro": 10.00
+    }
+  }
+}
