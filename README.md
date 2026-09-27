@@ -1,2 +1,2 @@
-# PuertaCorrediza
-Calculo de Puerta de Bano Corrediza
+# Pareducha
+Calculo de Puertas de Bano 
