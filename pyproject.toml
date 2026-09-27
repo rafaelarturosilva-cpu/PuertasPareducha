@@ -1,0 +1,9 @@
+[project]
+name = "puertas-pareducha"
+version = "1.0.0"
+description = "Cotizador de puertas de baño con bot de Telegram"
+requires-python = ">=3.12"
+dependencies = []  # solo librería estándar
+
+[tool.vercel]
+entrypoint = "app:handler"
